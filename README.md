@@ -4,9 +4,11 @@
 
 ## Thoughts
 
-- Saw this added and starting working on before directions were included.
-- Type one letter and it cause a few second re-run of the whole list.  
-- Improved performance by use a memoized fibonacci function
+- I saw this added and starting working on before directions were included.
+- Type one letter and there will be a few second re-run of the whole list.  
+- I improved performance by using a memoized fibonacci function.
+- The directions want challengers to use a pipe and not touch the fibonacci function.
+- You could probably use a separate memo function but pipes are better and flexible than memo functions.   
 
 ## Useful Resources
 
